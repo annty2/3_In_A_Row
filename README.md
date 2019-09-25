@@ -10,6 +10,10 @@ The app starts by showing an emty grid as following:
 
 then we choose a square which we would like our coin to place in (falls down by animation)
 
+![step1](https://user-images.githubusercontent.com/33619352/65582350-e8269d80-df85-11e9-8f17-cd8710ce8223.png)
+
+
+
 
 we go like this- each player in his turn until there are 3 of the same coins in a row, coulmn or in diagonal.
 
